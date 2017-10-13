@@ -1,6 +1,6 @@
 /*
 * Run this example from terminal by
-* using this command - go run hello-world.go
+* using this command - go run values.go
 *
 * Output:
 	golang

@@ -9,8 +9,7 @@
 ### This repository contains a collection of Go programs with examples. These examples explain the basics of golang. 
 
 ## Available Examples
-
-  <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/hello-world.go">Hello World</a><br/>
+  - [Documentation] <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/hello-world.go">Hello World</a><br/>
   <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/values.go">Values</a><br/>
   <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/variables.go">Variables</a><br/>
   <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/constants.go">Constants</a><br/>

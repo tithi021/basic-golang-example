@@ -2,7 +2,7 @@
 * Run this example from terminal by
 * using this command - go run arrays.go
 *
-* Output:
+* Output
 	emp: [0 0 0 0 0]
 	Set: [0 0 0 0 100]
 	Get: 100

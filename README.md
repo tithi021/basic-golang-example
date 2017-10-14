@@ -1,6 +1,6 @@
 # Basic Golang Examples
 
-## This repository contains a collection of Go programs with examples. These examples explain the basics of golang. 
+### This repository contains a collection of Go programs with examples. These examples explain the basics of golang. 
 
 ## Available Examples
 

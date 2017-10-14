@@ -1,3 +1,9 @@
+<!--
+  Title: Basic Golang Examples
+  Description: This repository contains a collection of Go programs with examples. These examples explain the basics of golang.
+  Author: Afroza Yasmin
+  -->
+  
 # Basic Golang Examples
 
 ### This repository contains a collection of Go programs with examples. These examples explain the basics of golang. 

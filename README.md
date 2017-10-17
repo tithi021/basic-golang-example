@@ -26,4 +26,5 @@
   - <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/slice-append.go">Slice Append</a><br/>
   - <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/nil-slices.go">Nil Slice</a><br/>
   - <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/making-slices.go">Making Slice</a><br/>
+  - <a target="_blank" href="https://github.com/tithi021/basic-golang-example/blob/master/maps.go">Maps</a><br/>
   
